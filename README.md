@@ -3,5 +3,6 @@
 - Học full tuần mệt lắm rồi :<
 - fix
 - feat
-  
+- docs 
+
 
