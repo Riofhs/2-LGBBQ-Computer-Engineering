@@ -1,5 +1,5 @@
 // File: vo_manh_duy.c
-// Mục đích: chứa thông tin cá nhân (Võ Mạnh Duy, 25119064) - K25 trường Đại học Sư Phạm Kỹ Thuật Hồ Chí Minh
+// Mục đích: chứa thông tin cá nhân (Võ Mạnh Duy, 25119064)-K25 trường Đại học Sư Phạm Kỹ Thuật Hồ Chí Minh
 #include <stdio.h>
 int main(void) {
     printf("Họ tên: Võ Mạnh Duy (07/04/2007)\n");
