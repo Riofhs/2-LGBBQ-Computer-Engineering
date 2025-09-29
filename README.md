@@ -1,11 +1,5 @@
-# Personal Page
-
-Trang giới thiệu cá nhân viết bằng **HTML + CSS**.
-
-## Cách chạy
-Mở file `index.html` trong trình duyệt bất kỳ.
-
-## Commit mẫu
-- `feat`: thêm trang HTML cơ bản.
-- `fix`: sửa lỗi giao diện avatar.
-- `docs`: bổ sung README.
+# ktmt-nhapmon
+My first project
+Võ Mạnh Duy
+MSSV: 25119064
+Hiện tại, tôi đang là tân sinh viên khóa k25 của trường đại học Sư Phạm Kĩ Thuật Thành Phố Hồ Chí Minh.
