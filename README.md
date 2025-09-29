@@ -1,6 +1,3 @@
-# Group Page
-
-Trang giới thiệu bài làm của thành viên trong nhóm
-
-
-
+- Phan Hữu Danh
+- 25119061
+- Học full tuần mệt lắm rồi :<
