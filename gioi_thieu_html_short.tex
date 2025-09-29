@@ -1,0 +1,55 @@
+
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[vietnamese]{babel}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\lstset{
+    basicstyle=\ttfamily\footnotesize,
+    breaklines=true,
+    backgroundcolor=\color{gray!10},
+    frame=single
+}
+
+\title{Giới thiệu HTML (Phiên bản rút gọn)}
+\author{Lê Nguyễn Quốc Thái}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+Dưới đây là phần \texttt{<body>} HTML rút gọn để dễ đọc hơn:
+
+\begin{lstlisting}[language=HTML]
+
+<body>
+  <div class="container">
+    <h1>Lê Nguyễn Quốc Thái</h1>
+    <p class="meta">Sinh viên — đam mê lập trình và công nghệ.</p>
+
+    <div class="section">
+      <h2>Giới thiệu ngắn</h2>
+      <p>Xin chào, mình là Lê Nguyễn Quốc Thái. Mình yêu thích lập trình, công nghệ và luôn tìm cách cải thiện kỹ năng qua các dự án thực tế.</p>
+    </div>
+
+    <div class="section">
+      <h2>Kỹ năng</h2>
+      <ul>
+        <li>Ngôn ngữ: Python, JavaScript, Bash</li>
+        <li>Công cụ: Git, GitHub, VS Code, Overleaf</li>
+        <li>Học tập: Giải thuật, tính toán, tự động hóa</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>Liên hệ</h2>
+      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+      <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
+    </div>
+  </div>
+</body>
+
+\end{lstlisting}
+
+\end{document}
